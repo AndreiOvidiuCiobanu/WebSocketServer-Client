@@ -1,3 +1,3 @@
 # WebSocketServer-Client
 
-Build fully working chat application with c# and .NET Core, using WebSockets
+Built fully working chat application with c# and .NET Core, using WebSockets
